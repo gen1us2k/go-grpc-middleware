@@ -20,10 +20,10 @@
   version = "v0.5"
 
 [[projects]]
-  branch = "master"
+  branch = "1.2.0"
   name = "github.com/golang/protobuf"
   packages = ["jsonpb","proto","ptypes","ptypes/any","ptypes/duration","ptypes/struct","ptypes/timestamp"]
-  revision = "1e59b77b52bf8e4b449a57e6f79f21226d571845"
+
 
 [[projects]]
   name = "github.com/opentracing/opentracing-go"
