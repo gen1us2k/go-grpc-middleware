@@ -3,7 +3,7 @@
   version = "0.5.0"
 
 [[constraint]]
-  revision = "1d3f30b51784bec5aad268e59fd3c2fc1c2fe73f"
+  revision = "aa810b61a9c79d51363740d207bb46cf8e620ed5"
   name = "github.com/golang/protobuf"
 
 [[constraint]]
